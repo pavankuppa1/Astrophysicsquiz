@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quiz1App</string>
+    <string name="ast">Astrophysics</string>
+    <string name="quiz">Quiz</string>
+    <string name="q1">1.What is most of the SUN filled with?</string>
+    <string name="o11">Hydrogen</string>
+    <string name="o12">Helium</string>
+    <string name="o13">Neon</string>
+    <string name="q2">2.A planet that does not orbit any star, instead wandering through the galaxy alone, is called what?</string>
+    <string name="o21">Rogue Planet</string>
+    <string name="o22">Templar</string>
+    <string name="o23">Planetar</string>
+    <string name="q3">3.What is the stellar equivalent of a rogue planet?</string>
+    <string name="o31">White hole</string>
+    <string name="o32">Intergalactic star</string>
+    <string name="o33">Brown dwarf</string>
+    <string name="q4">4.First spacecraft to enter the interstellar medium?</string>
+    <string name="o41">Hubble</string>
+    <string name="o42">Cassini</string>
+    <string name="o43">Voyager1</string>
+    <string name="q5">5.Most widely accepted theory of origin of universe?</string>
+    <string name="o51">Steady state theory</string>
+    <string name="o52">Big Bang</string>
+    <string name="o53">Proton Cascade</string>
+</resources>
